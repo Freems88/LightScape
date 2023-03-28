@@ -19,7 +19,7 @@ By participating in this project, you agree to abide by our [Code of Conduct](./
 1. Fork the repository to your account.
 2. Clone the forked repository to your local machine.
 3. Set up the development environment by following the instructions in the [README](./README.md) file.
-4. Explore the [project roadmap](./ROADMAP.md) and [issue tracker](https://github.com/yourusername/LightScape/issues) to find tasks that align with your interests and skills.
+4. Explore the project roadmap. and [issue tracker](https://github.com/yourusername/LightScape/issues) to find tasks that align with your interests and skills.
 
 ## Submitting Issues
 
