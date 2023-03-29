@@ -13,12 +13,16 @@ LightScape is an open-source project aimed at creating solar exposure mapping us
 
 These instructions will help you set up and run the LightScape project on your local machine for development and testing purposes.
 
-### Prerequisites
+## Prerequisites
 
-- Android Studio or Xcode, depending on your target platform (Android or iOS)
-- OpenCV library
-- TensorFlow library
-- ARCore (for Android) or ARKit (for iOS)
+To contribute to or use LightScape, you'll need the following tools and libraries:
+
+- Python 3.6 or later: [Download Python](https://www.python.org/downloads/)
+- OpenCV: A powerful computer vision library for image processing tasks. Install it using pip: `pip install opencv-python`
+- NumPy: A library for numerical operations in Python. Install it using pip: `pip install numpy`
+- pyephem (Optional): A library for astronomical computations, including sun position calculation. Install it using pip: `pip install pyephem`
+
+These prerequisites are necessary for working on the core functionality of LightScape. Additional tools and libraries may be needed for mobile app development (e.g., React Native or Flutter) and web app development (e.g., React, Angular, or Vue.js).
 
 ### Installation
 
